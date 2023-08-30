@@ -1,0 +1,422 @@
+[
+  {
+    "role": "client",
+    "resource": "User1",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "User1",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "User1",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "User1",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "User1",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "User1",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "User1",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "User1",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "User1",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "User1",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Skill",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Skill",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Skill",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Skill",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Skill",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Skill",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Skill",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Skill",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Skill",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Skill",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Job",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Job",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Job",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Job",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Job",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Job",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Job",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Job",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Job",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Job",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Bid",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Bid",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Bid",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Bid",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Bid",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Bid",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Bid",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Bid",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Bid",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Bid",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Message",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Message",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Message",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Message",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Message",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Message",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Message",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Message",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Message",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Message",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Review",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Review",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Review",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Review",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Review",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Review",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Review",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Review",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Review",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Review",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Transaction",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Transaction",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Transaction",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Transaction",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Transaction",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Transaction",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Transaction",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Transaction",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "client",
+    "resource": "Transaction",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "freenlancer",
+    "resource": "Transaction",
+    "action": "read:any",
+    "attributes": "*"
+  }
+]
